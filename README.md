@@ -1,6 +1,6 @@
 # Friska Örnsköldsviks kartfiler
 
-Detta repository innehåller georefererade kartor och tillhörande dokument
+Detta repository (sida) innehåller mappar med georefererade kartor och tillhörande dokument
 för Friska Örnsköldsviks orienteringskartor
 
 ## Struktur
@@ -9,7 +9,6 @@ för Friska Örnsköldsviks orienteringskartor
 - 2027
 - 2028
 
-Varje år innehåller kartor.
 
 Filnamn följer formatet:
 
