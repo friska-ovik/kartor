@@ -5,15 +5,13 @@ för Friska Örnsköldsviks orienteringskartor
 
 ## Struktur
 
-- 2026
-- 2027
-- 2028
+Varje år har en egen mapp och varje karta, för respektive år, har en egen undermapp - där filer för respektive karta ligger.
 
-
+## Filnamn
 Filnamn följer formatet:
 
 FRISKAÅR_KX_Plats.tif
 
-Exempel:
+Exempel för 2026 års karta 5 över Nävertjäl:
 
-FRISKA26_K5_Myckelgensjo.tif
+FRISKA26_K5_Navertjal.tif
