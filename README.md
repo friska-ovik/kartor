@@ -10,8 +10,8 @@ Varje år har en egen mapp och varje karta, för respektive år, har en egen und
 ## Filnamn
 Filnamn följer formatet:
 
-FRISKAÅR_KXX_Plats.tif
+FRISKAÅR_KX_Plats.tif
 
 Exempel för 2026 års karta 5 över Nävertjäl:
 
-FRISKA26_K05_Navertjal.tif
+FRISKA26_K5_Navertjal.tif
