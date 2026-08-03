@@ -10,3 +10,11 @@ för Friska Örnsköldsviks orienteringskartor
 - 2028
 
 Varje år innehåller kartor.
+
+Filnamn följer formatet:
+
+FRISKAÅR_KX_Plats.tif
+
+Exempel:
+
+FRISKA26_K5_Myckelgensjo.tif
