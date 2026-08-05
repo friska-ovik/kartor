@@ -1,11 +1,8 @@
 # Friska Örnsköldsvik – kartor
 
 Du har kommit till Friska Örnsköldsviks repository.
-Den användarvänliga sidan (för orienterare) för hämtning av kartor finns här:
+Den användarvänliga sidan (för orienterare) för hämtning av kartor finns här: [Öppna Friska Örnsköldsviks kartsida](https://friska-ovik.github.io/kartor/)
 
-[Öppna Friska Örnsköldsviks kartsida](https://friska-ovik.github.io/kartor/)
-
-<br>
 <br>
 
 ## För administratörer
