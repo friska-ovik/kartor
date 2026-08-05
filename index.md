@@ -11,7 +11,7 @@ title: Friska Örnsköldsvik
 
 Här publiceras georefererade kartor för användning i appen QField.
 
-## Kartor 2026
+## 2026
 
 ### Kartor
 
