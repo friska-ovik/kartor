@@ -11,9 +11,7 @@ title: Friska Örnsköldsvik
 
 Här hämtar du georefererade kartor för användning i appen QField.
 
-## 2026
-
-### Guider
+## Guider
 
 Ta del av en guide för hur du laddar ner och importerar karta i QField på din telefon.
 
@@ -26,14 +24,14 @@ Ta del av en guide för hur du laddar ner och importerar karta i QField på din 
   Guide för Android (SAMSUNG m.fl.)
 </a>
 
-### Kartor
+## Kartor
 
 <a class="download-button"
    href="FRISKA26_K5_Navertjal.tif">
   Hämta karta 5 - Nävertjäl
 </a>
 
-### Kontakt
+## Kontakt
 
 Ingmar Andersson 070-636 87 51
 <br>
