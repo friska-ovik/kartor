@@ -1,0 +1,89 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Dölj GitHub Pages-temats automatiska repository-rubrik "kartor". */
+.markdown-body > h1:first-child {
+  display: none;
+}
+
+/* Bekvämare sidbredd och textstorlek, särskilt på mobil. */
+.markdown-body {
+  max-width: 760px;
+  margin: 0 auto;
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+/* Huvudrubriken behöver inte vara jättestor på telefon. */
+.markdown-body h1 {
+  font-size: 2rem;
+  line-height: 1.2;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.markdown-body h2 {
+  font-size: 1.55rem;
+  margin-top: 2rem;
+}
+
+.markdown-body h3 {
+  font-size: 1.25rem;
+  margin-top: 1.5rem;
+}
+
+/* Logotypbilden fyller innehållsbredden men förstoras inte obegränsat. */
+.site-logo {
+  display: block;
+  width: 100%;
+  max-width: 700px;
+  height: auto;
+  margin: 0 0 1.5rem 0;
+}
+
+/* Tydlig nedladdningsknapp som är lätt att trycka på med mobilen. */
+.download-button {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 1rem 0 1.5rem;
+  padding: 0.9rem 1rem;
+  border-radius: 8px;
+  background: #0969da;
+  color: #ffffff !important;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none !important;
+}
+
+/* Lite mer luft mellan punkterna i mobilinstruktionen. */
+.markdown-body ol li {
+  margin-bottom: 0.45rem;
+}
+
+/* Mobilanpassning. */
+@media (max-width: 600px) {
+  .markdown-body {
+    font-size: 17px;
+    line-height: 1.65;
+  }
+
+  .markdown-body h1 {
+    font-size: 1.75rem;
+  }
+
+  .markdown-body h2 {
+    font-size: 1.4rem;
+  }
+
+  .markdown-body h3 {
+    font-size: 1.2rem;
+  }
+
+  .download-button {
+    padding: 1rem;
+    font-size: 1.05rem;
+  }
+}
