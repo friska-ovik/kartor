@@ -13,7 +13,7 @@ Här hämtar du georefererade kartor för användning i appen QField.
 
 ## 2026
 
-### Guider - nedladdning och import i QField
+### Guider - för nedladdning och import i QField
 
 Ta del av rätt guide för din mobil.
 
