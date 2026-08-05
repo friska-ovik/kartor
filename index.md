@@ -7,8 +7,7 @@ title: Friska Örnsköldsvik
 <img
   class="site-logo"
   src="assets/web_arrangorer_liggande_2026.png"
-  alt="Friska Örnsköldsvik och medverkande arrangörer"
->
+  alt="Friska Örnsköldsvik och medverkande arrangörer">
 
 Här publiceras georefererade kartor för användning i appen QField.
 
