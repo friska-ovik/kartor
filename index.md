@@ -35,8 +35,8 @@ Ta del av en guide för hur du laddar ner och importerar karta i QField på din 
 
 ### Kontakt
 
-Ingmar Andersson 0706368751
+Ingmar Andersson 070-636 87 51
 <br>
 Per Sundin 073-960 16 63
 <br>
-Vivianne Edblom 070-6311028
+Vivianne Edblom 070-631 10 28
