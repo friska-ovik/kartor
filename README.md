@@ -9,11 +9,11 @@ Den publika och användarvänliga sidan för hämtning av kartor nås: [https://
 ## För administratörer
 
 ### Filnamn
-Filnamn följer formatet:
+Vid uppladdning av kartor följer filnamnet följannde format:
 
-FRISKAÅR_KX_Plats.tif
+FRISKAÅR_KX_Plats.tif - där "ÅR" motsvarar år och "X" siffran på kartan.
 
-Detta för att orienteraren enkelt skulle kunna identifiera karta/fil på sin handhållna enhet.
+Detta för att orienteraren enkelt skulle kunna identifiera karta/fil på sin handhållna enhet vid inläsning i QField.
 Exempelvis heter 2026 års karta 5 över Nävertjäl:
 
 FRISKA26_K5_Navertjal.tif
