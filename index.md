@@ -29,4 +29,8 @@ Ta del av rätt guide för din mobil.
   Hämta karta 5 - Nävertjäl
 </a>
 
+### Kontakt
 
+Ingmar Andersson 070-636 87 51
+Per Sundin 073-960 16 63
+Vivianne Edblom 070-631 10 28
