@@ -4,6 +4,10 @@ title: Friska Örnsköldsvik
 
 # Friska Örnsköldsvik
 
+<p align="center">
+<img src="assets/web_arrangorer_liggande_2026.png" width="220">
+</p>
+
 Här publiceras georefererade kartor för användning i appen QField.
 
 ## Kartor 2026
