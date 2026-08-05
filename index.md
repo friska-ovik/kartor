@@ -20,13 +20,11 @@ Här publiceras georefererade kartor för användning i appen QField.
   Hämta karta 5 till QField
 </a>
 
-### Så sparar du kartan på iPhone
+### Instruktioner
 
-1. Tryck på länken ovan.
-2. När kartan visas, tryck på **Dela**.
-3. Välj **Spara i Filer**.
-4. Öppna QField.
-5. Välj **Local projects and datasets**.
-6. Välj **Import dataset(s)** och öppna TIFF-filen.
+<a class="download-button"
+   href="2026/K5/FRISKA26_K5.tif">
+  Instruktion till iPhone
+</a>
 
 Kartorna är georefererade i SWEREF 99 TM.
