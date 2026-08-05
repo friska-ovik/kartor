@@ -9,7 +9,7 @@ title: Friska Örnsköldsvik
   src="assets/web_arrangorer_liggande_2026.png"
   alt="Friska Örnsköldsvik och medverkande arrangörer">
 
-Här hämtar du georefererade kartor för användning i appen QField.
+Här hämtar du kartor så att du, genom telefonens GPS, kan se var du befinner dig på orienteringskartan - via appen QField.
 
 ## Guider
 
