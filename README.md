@@ -17,6 +17,6 @@ Filnamn följer formatet:
 FRISKAÅR_KX_Plats.tif
 
 Detta för att orienteraren enkelt skulle kunna identifiera karta/fil på sin handhållna enhet.
-Exempel för 2026 års karta 5 över Nävertjäl:
+Exempelvis heter 2026 års karta 5 över Nävertjäl:
 
 FRISKA26_K5_Navertjal.tif
