@@ -26,5 +26,3 @@ Här publiceras georefererade kartor för användning i appen QField.
    href="instructions/qfield_iphone_2026.pdf">
   Guide för iPhone
 </a>
-
-Kartorna är georefererade i SWEREF 99 TM.
