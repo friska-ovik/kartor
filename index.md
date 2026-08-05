@@ -21,6 +21,10 @@ Ta del av en guide för hur du laddar ner och importerar karta i QField på din 
    href="instructions/qfield_iphone_2026.pdf">
   Guide för iOS (iPhone)
 </a>
+<a class="download-button"
+   href="instructions/qfield_iphone_2026.pdf">
+  Guide för Android (SAMSUNG m.fl.)
+</a>
 
 ### Kartor
 
