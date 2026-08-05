@@ -5,9 +5,10 @@ title: Friska Örnsköldsvik
 # Friska Örnsköldsvik
 
 <img
+  class="site-logo"
   src="assets/web_arrangorer_liggande_2026.png"
   alt="Friska Örnsköldsvik och medverkande arrangörer"
-  style="display:block; width:100%; max-width:700px; height:auto; margin:0;">
+>
 
 Här publiceras georefererade kartor för användning i appen QField.
 
@@ -15,7 +16,10 @@ Här publiceras georefererade kartor för användning i appen QField.
 
 ### Karta 5
 
-[Hämta karta 5 till QField](2026/K5/FRISKA26_K5.tif)
+<a class="download-button"
+   href="2026/K5/FRISKA26_K5.tif">
+  Hämta karta 5 till QField
+</a>
 
 ### Så sparar du kartan på iPhone
 
