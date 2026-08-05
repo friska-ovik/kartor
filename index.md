@@ -23,7 +23,7 @@ Här publiceras georefererade kartor för användning i appen QField.
 ### Instruktioner
 
 <a class="download-button"
-   href="2026/K5/FRISKA26_K5.tif">
+   href="instructions/qfield_iphone_2026">
   Instruktion till iPhone
 </a>
 
