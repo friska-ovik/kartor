@@ -13,11 +13,11 @@ Här publiceras georefererade kartor för användning i appen QField.
 
 ## Kartor 2026
 
-### Karta 5
+### Kartor
 
 <a class="download-button"
    href="2026/K5/FRISKA26_K5.tif">
-  Hämta karta 5 till QField
+  Hämta karta 5 - Nävertjäl
 </a>
 
 ### Instruktioner
