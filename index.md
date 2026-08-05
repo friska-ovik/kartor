@@ -4,9 +4,11 @@ title: Friska Örnsköldsvik
 
 # Friska Örnsköldsvik
 
-<p align="center">
-<img src="assets/web_arrangorer_liggande_2026.png" width="220">
-</p>
+<img
+  src="assets/web_arrangorer_liggande_2026.png"
+  alt="Friska Örnsköldsvik och medverkande arrangörer"
+  style="display:block; width:100%; max-width:700px; height:auto; margin:0;"
+>
 
 Här publiceras georefererade kartor för användning i appen QField.
 
