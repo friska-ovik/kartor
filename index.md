@@ -13,14 +13,13 @@ Här hämtar du georefererade kartor för användning i appen QField.
 
 ## 2026
 
-### Guider
+### Guider - nedladdning och import i QField
 
-Ta del av rätt guide för din mobil - hur du laddar ner och öppnar upp kartan i appen QField.
-Apple välj "Guide för iPhone". SAMSUNG, Sony m.fl. som har Android som operativsystem, välj "Guide för Android".
+Ta del av rätt guide för din mobil.
 
 <a class="download-button"
    href="instructions/qfield_iphone_2026.pdf">
-  Guide för iPhone
+  Guide för iOS (iPhone)
 </a>
 
 ### Kartor
