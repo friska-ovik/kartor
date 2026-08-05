@@ -13,7 +13,7 @@ Här hämtar du kartor så att du, genom telefonens GPS, kan se var du befinner 
 
 ## Guider
 
-Ta del av en guide för hur du laddar ner och importerar karta i QField på din telefon.
+Ta del av en guide för hur du hämtar appen, laddar ner karta till mobilen och därefter importerar karta i QField.
 
 <a class="download-button"
    href="instructions/qfield_iphone_2026.pdf">
