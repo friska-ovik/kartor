@@ -7,10 +7,6 @@ Den publika webbsidan (användarvänliga) för orienterare, för hämtning av ka
 
 ## För administratörer
 
-### Struktur
-
-Varje år har en egen mapp, och varje karta för respektive år, har en egen undermapp - där fil(er) för respektive karta ligger.
-
 ### Filnamn
 Filnamn följer formatet:
 
