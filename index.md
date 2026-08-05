@@ -13,9 +13,9 @@ Här hämtar du georefererade kartor för användning i appen QField.
 
 ## 2026
 
-### Guider - för nedladdning och import i QField
+### Guider
 
-Ta del av rätt guide för din mobil.
+Ta del av en guide för hur du laddar ner och importerar karta i QField på din telefon.
 
 <a class="download-button"
    href="instructions/qfield_iphone_2026.pdf">
