@@ -10,7 +10,7 @@ Här publiceras georefererade kartor för användning i appen QField.
 
 ### Karta 5
 
-[Hämta karta 5 till QField](2026/K05/FRISKA26_K5.tif)
+[Hämta karta 5 till QField](2026/K5/FRISKA26_K5.tif)
 
 ### Så sparar du kartan på iPhone
 
