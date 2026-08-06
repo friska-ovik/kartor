@@ -9,11 +9,11 @@ Den publika och användarvänliga sidan för hämtning av kartor och guider nås
 ## För administratörer
 
 ### Filnamn
-Vid uppladdning av kartor bör filnamnet följa följande format:
+Vid uppladdning av kartor ska filnamnet följa följande format:
 
 FOÅR_KX_Plats.tif - där "ÅR" motsvarar år och "X" siffran på kartan.
 
-Detta för att orienteraren enkelt skulle kunna identifiera karta/fil på sin handhållna enhet vid inläsning i QField, och då Å, Ä samt Ö kan skapa problem. 
-Exempelvis är 2026 års karta 5 över Nävertjäl döpt till:
+Detta för att orienteraren enkelt skulle kunna identifiera filen på sin handhållna enhet vid inläsning i QField - guiderna anger även detta format på filerna.
+Exempel för 2026 års karta 5 över Nävertjäl:
 
 FO26_K5_Navertjal.tif
