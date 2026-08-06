@@ -30,6 +30,10 @@ Ta del av en guide som visar hur du hämtar appen, laddar ner kartan till telefo
    href="FRISKA26_K5_Navertjal.tif">
   Hämta karta 5 - Nävertjäl
 </a>
+<a class="download-button"
+   href="FRISKA26_K6_Trysunda.tif">
+  Hämta karta 6 - Trysunda
+</a>
 
 ## Kontakt
 
