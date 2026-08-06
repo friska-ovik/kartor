@@ -25,10 +25,17 @@ Ta del av en guide som visar hur du hämtar appen, laddar ner kartan till telefo
 </a>
 
 ## Kartor
-
+<a class="download-button"
+   href="FO26_K1_Hoggsjostugan.tif">
+  Hämta karta 1 - Storstensudden
+</a>
+<a class="download-button"
+   href="FO26_K2_Skeppsmalen.tif">
+  Hämta karta 2 - Skeppsmalen
+</a>
 <a class="download-button"
    href="FO26_K4_Hoggsjostugan.tif">
-  Hämta karta 6 - Trysunda
+  Hämta karta 4 - Höggsjöstugan
 </a>
 <a class="download-button"
    href="FO26_K5_Navertjal.tif">
