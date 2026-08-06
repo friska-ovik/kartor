@@ -27,11 +27,15 @@ Ta del av en guide som visar hur du hämtar appen, laddar ner kartan till telefo
 ## Kartor
 
 <a class="download-button"
-   href="FRISKA26_K5_Navertjal.tif">
+   href="FO26_K4_Hoggsjostugan.tif">
+  Hämta karta 6 - Trysunda
+</a>
+<a class="download-button"
+   href="FO26_K5_Navertjal.tif">
   Hämta karta 5 - Nävertjäl
 </a>
 <a class="download-button"
-   href="FRISKA26_K6_Trysunda.tif">
+   href="FO26_K6_Trysunda.tif">
   Hämta karta 6 - Trysunda
 </a>
 
