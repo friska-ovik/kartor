@@ -35,7 +35,7 @@ Ta del av en guide som visar hur du hämtar appen, laddar ner kartan till telefo
 </a>
 <a class="download-button"
    href="FO26_K4_Huggsjostugan.tif">
-  Hämta karta 4 - Höggsjöstugan
+  Hämta karta 4 - Huggsjöstugan
 </a>
 <a class="download-button"
    href="FO26_K5_Navertjal.tif">
