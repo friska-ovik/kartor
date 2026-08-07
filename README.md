@@ -98,3 +98,25 @@ Om en ändring inte syns på webbplatsen, kontrollera **Actions → pages build 
 Guider och andra resurser som används på den publika sidan lagras i respektive mapp i repositoryt.
 
 Vid ändring av filnamn eller sökväg måste motsvarande länk i `index.md` också uppdateras.
+
+### Publicering och GitHub Pages
+
+Efter en commit tar det normalt någon minut innan GitHub Pages har byggt om och publicerat webbplatsen.
+
+Om ändringarna inte syns efter några minuter:
+
+1. Kontrollera att den senaste körningen under **Actions → pages build and deployment** har slutförts utan fel.
+2. Uppdatera webbläsaren (vid behov med en hård uppdatering eller i ett privat fönster).
+3. Om GitHub Actions eller GitHub Pages har driftstörningar kan publiceringen bli fördröjd. Aktuell driftstatus finns på:
+
+https://www.githubstatus.com/
+
+Vid tillfälliga driftstörningar kan det räcka att göra en ny commit när GitHub åter fungerar normalt för att trigga en ny publicering. :contentReference[oaicite:0]{index=0}
+
+
+> **Tips**
+>
+> Om en kartlänk ger **404 Not Found** beror det nästan alltid på att
+> filnamnet i `index.md` inte exakt överensstämmer med namnet på den
+> uppladdade filen. Kontrollera stavning, filändelse (`.tif`) samt
+> stora och små bokstäver.
