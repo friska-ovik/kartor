@@ -19,10 +19,9 @@ Ta del av en guide som visar hur du hämtar appen, laddar ner kartan till telefo
    href="instructions/guide_qfield_ios_260807.pdf">
   Guide för iOS (iPhone)
 </a>
-<a class="download-button"
-   href="instructions/">
-  Guide för Android (SAMSUNG m.fl.)
-</a>
+
+Instruktionerna för Android (SAMSUNG m.fl.) är ännu inte gjorda.
+Om du har en Android så bör du ändå kunna fixa kartorna via iPhone-guiden.
 
 ## Kartor
 <a class="download-button"
