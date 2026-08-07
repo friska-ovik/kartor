@@ -23,6 +23,28 @@ Kontrollera före publicering att:
 
 En korrekt GeoTIFF behöver alltså ingen separat `.tfw`-fil för publiceringen.
 
+Kartfiler laddas upp direkt i **roten av repot på `main`**, alltså på samma
+nivå som `index.md` och `README.md`.
+
+Exempel:
+
+`FO26_K5_Navertjal.tif`
+
+Undermappar behöver inte skapas för kartorna. Detta gör publiceringen enklare
+och minskar risken för felaktiga sökvägar.
+
+### Lagring över tid
+
+Kartfilerna är endast avsedda att finnas tillgängliga under den period då de
+ska publiceras. Av upphovsrättsliga skäl ska tidigare års kartfiler inte
+arkiveras i repositoryt.
+
+När ett nytt års kartor ska publiceras tas därför föregående års GeoTIFF-filer
+bort från repot.
+
+Historiska kartfiler ska inte läggas i årsmappar eller på annat sätt sparas
+publikt i repositoryt.
+
 ### Filnamn
 
 Kartfiler ska namnges enligt:
@@ -46,15 +68,17 @@ Filnamnsstandarden gör det enklare för användaren att identifiera rätt karta
 ### Publicera en ny karta
 
 1. Kontrollera GeoTIFF-filen i QGIS.
-2. Ladda upp `.tif`-filen till repositoryt.
-3. Öppna `index.md`.
-4. Lägg till eller uppdatera knappen för kartan så att länken pekar på exakt rätt filnamn.
-5. Commit:a ändringarna till `main`.
-6. GitHub Pages bygger och publicerar därefter automatiskt en ny version av webbplatsen.
-7. Kontrollera den publicerade sidan på:
-   **[friska-ovik.github.io/kartor](https://friska-ovik.github.io/kartor/)**
+2. Kontrollera att filnamnet följer namnstandarden.
+3. Ladda upp `.tif`-filen direkt i roten av repot på `main`.
+4. Öppna `index.md`.
+5. Lägg till eller uppdatera knappen för kartan. Länken ska innehålla exakt
+   samma filnamn som den uppladdade filen.
+6. Commit:a ändringarna.
+7. GitHub Pages bygger och publicerar automatiskt den nya versionen.
+8. Kontrollera den publicerade sidan och prova kartlänken på en mobiltelefon.
 
-Observera att filnamn och sökvägar är skiftlägeskänsliga. Ett felaktigt filnamn i `index.md` leder till **404 Not Found**.
+Observera att filnamn och sökvägar är skiftlägeskänsliga. Ett felaktigt
+filnamn i `index.md` leder till **404 Not Found**.
 
 ### GitHub Pages
 
