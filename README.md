@@ -71,7 +71,7 @@ Filnamnsstandarden gör det enklare för användaren att identifiera rätt karta
 2. Kontrollera att filnamnet följer namnstandarden.
 3. Ladda upp `.tif`-filen direkt i roten av repot på `main`.
 4. Öppna `index.md`.
-5. Lägg till eller uppdatera knappen för kartan. Länken ska innehålla exakt
+5. Lägg till eller uppdatera knappen för kartan (visningsnamn och länkadress/filnamn). Länken ska innehålla exakt
    samma filnamn som den uppladdade filen.
 6. Commit:a ändringarna.
 7. GitHub Pages bygger och publicerar automatiskt den nya versionen.
