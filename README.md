@@ -111,12 +111,12 @@ Om ändringarna inte syns efter några minuter:
 
 https://www.githubstatus.com/
 
-Vid tillfälliga driftstörningar kan det räcka att göra en ny commit när GitHub åter fungerar normalt för att trigga en ny publicering. :contentReference[oaicite:0]{index=0}
+Vid tillfälliga driftstörningar kan det räcka att göra en ny commit när GitHub åter fungerar normalt för att trigga en ny publicering.
 
 
 > **Tips**
 >
 > Om en kartlänk ger **404 Not Found** beror det nästan alltid på att
 > filnamnet i `index.md` inte exakt överensstämmer med namnet på den
-> uppladdade filen. Kontrollera stavning, filändelse (`.tif`) samt
+> uppladdade filen. Kontrollera (sökväg), stavning, filändelse (`.tif`) samt
 > stora och små bokstäver.
