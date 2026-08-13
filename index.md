@@ -16,12 +16,14 @@ Här hämtar du kartor så att du, med hjälp av telefonens GPS, kan se din posi
 Ta del av en guide som visar hur du hämtar appen, laddar ner kartan till telefonen och importerar den i QField:
 
 <a class="download-button"
-   href="instructions/guide_qfield_ios_260807.pdf">
+   href="instructions/guide_qfield_ios.pdf">
   Guide för iOS (iPhone)
 </a>
 
-Instruktionerna för Android (SAMSUNG m.fl.) är ännu inte gjorda.
-Om du har en Android så bör du ändå kunna fixa kartorna via iPhone-guiden.
+<a class="download-button"
+   href="instructions/guide_qfield_android.pdf">
+  Guide för Android (SAMSUNG m.fl.)
+</a>
 
 ## Kartor
 <a class="download-button"
