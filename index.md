@@ -44,7 +44,7 @@ Ta del av en guide som visar hur du hämtar appen, laddar ner kartan till telefo
 </a>
 <a class="download-button"
    href="FO26_K7_test.tif">
-  Hämta karta 1 - test
+  Hämta karta 7 - test
 </a>
 ## Kontakt
 
