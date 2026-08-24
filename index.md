@@ -43,7 +43,7 @@ Ta del av en guide som visar hur du hämtar appen, laddar ner kartan till telefo
   Hämta karta 5 - Nävertjäl
 </a>
 <a class="download-button"
-   href="FO26_K7_test.tif">
+   href="FO26_K7_test.tif.tif">
   Hämta karta 7 - test
 </a>
 ## Kontakt
