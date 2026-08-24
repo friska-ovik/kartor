@@ -42,10 +42,7 @@ Ta del av en guide som visar hur du hämtar appen, laddar ner kartan till telefo
    href="FO26_K5_Navertjal.tif">
   Hämta karta 5 - Nävertjäl
 </a>
-<a class="download-button"
-   href="FO26_K7_test.tif">
-  Hämta karta 7 - test
-</a>
+
 ## Kontakt
 
 Ingmar Andersson 070-636 87 51
