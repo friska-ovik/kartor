@@ -27,6 +27,9 @@ Ta del av en guide som visar hur du hämtar appen, laddar ner kartan till telefo
 
 ## Kartor
 <a class="download-button"
+   href="FO27_K5_Ravesta.tif">
+  Hämta karta 5 - Ravesta
+<a class="download-button"
    href="FO26_K1_Storstensudden.tif">
   Hämta karta 1 - Storstensudden
 </a>
