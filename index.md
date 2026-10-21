@@ -33,10 +33,7 @@ Ta del av en guide som visar hur du hämtar appen, laddar ner kartan till telefo
    href="FO26_K1_Storstensudden.tif">
   Hämta karta 1 - Storstensudden
 </a>
-<a class="download-button"
-   href="FO26_K2_Skeppsmalen.tif">
-  Hämta karta 2 - Skeppsmalen
-</a>
+
 <a class="download-button"
    href="FO26_K4_Huggsjostugan.tif">
   Hämta karta 4 - Huggsjöstugan
