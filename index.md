@@ -36,10 +36,6 @@ Ta del av en guide som visar hur du hämtar appen, laddar ner kartan till telefo
   Hämta karta 1 - Storstensudden
 </a>
 
-<a class="download-button"
-   href="FO26_K5_Navertjal.tif">
-  Hämta karta 5 - Nävertjäl
-</a>
 
 ## Kontakt
 
