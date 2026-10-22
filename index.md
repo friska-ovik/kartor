@@ -32,7 +32,7 @@ Ta del av en guide som visar hur du hämtar appen, laddar ner kartan till telefo
   </a>
 
 <a class="download-button"
-   href="FO26_K1_InteStorstensudden.tif">
+   href="FO26_K1_Storstensudden.tif">
   Hämta karta 1 - Storstensudden
 </a>
 
