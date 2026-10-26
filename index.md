@@ -46,10 +46,6 @@ Ta del av en guide som visar hur du hämtar appen, laddar ner kartan till telefo
   Hämta karta 7 - Test
   </a>
 
-<a class="download-button"
-   href="FO26_K1_Storstensudden.tif">
-  Hämta karta 1 - Storstensudden
-</a>
 
 
 ## Kontakt
