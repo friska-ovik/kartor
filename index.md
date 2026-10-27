@@ -26,10 +26,6 @@ Ta del av en guide som visar hur du hämtar appen, laddar ner kartan till telefo
 </a>
 
 ## Kartor
-<a class="download-button"
-   href="FO27_K5_Ravesta.tif">
-  Hämta karta 5 - Ravesta
-  </a>
 
 <a class="download-button"
    href="FO27_K1_Genesmon.tif">
@@ -45,6 +41,11 @@ Ta del av en guide som visar hur du hämtar appen, laddar ner kartan till telefo
    href="FO27_K4_Sund.tif">
   Hämta karta 4 - Sund
   </a>
+
+<a class="download-button"
+   href="FO27_K5_Ravesta.tif">
+  Hämta karta 5 - Ravesta
+  </a> 
 
 <a class="download-button"
    href="FO27_K7_Test.tif">
