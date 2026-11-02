@@ -33,17 +33,17 @@ Ta del av en guide som visar hur du hämtar appen, laddar ner kartan till telefo
   </a>
 
 <a class="download-button"
-   href="FO27_K2_Svartby.tif">
+   href="INTEFO27_K2_Svartby.tif">
   Hämta karta 2 - Svartby
   </a>
 
 <a class="download-button"
-   href="FO27_K4_Sund.tif">
+   href="INTEFO27_K4_Sund.tif">
   Hämta karta 4 - Sund
   </a>
 
 <a class="download-button"
-   href="FO27_K5_Ravesta.tif">
+   href="INTEFO27_K5_Ravesta.tif">
   Hämta karta 5 - Ravesta
   </a> 
 
