@@ -28,8 +28,8 @@ Ta del av en guide som visar hur du hämtar appen, laddar ner kartan till telefo
 ## Kartor
 
 <a class="download-button"
-   href="FO27_K1_Genesmon.tif">
-  Hämta karta 1 - INTEGenesmon
+   href="INTEFO27_K1_Genesmon.tif">
+  Hämta karta 1 - Genesmon
   </a>
 
 <a class="download-button"
